@@ -35,7 +35,7 @@ From the root of the repository:
 ./gradlew.bat lwjgl3:run
 ````
 
-To also run the **server** (if included):
+To also run the **server** (if wanted):
 
 ```bash
 # On Linux / macOS
